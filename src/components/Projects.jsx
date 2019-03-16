@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import "font-awesome/css/font-awesome.css";
 import NavBar from "./NavBar";
+import Footer from './Footer';
 
 class Projects extends Component {
   render() {
@@ -203,6 +204,7 @@ class Projects extends Component {
             </p>
           </div>
         </div>
+        <Footer/>
       </div>
     );
   }

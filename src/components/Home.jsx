@@ -1,6 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import NavBar from "./NavBar";
+import Footer from './Footer';
 
 const Home = props => {
   console.log(props);
@@ -55,9 +56,12 @@ const Home = props => {
                 CONTACT
               </button>
             </NavLink>
+           
           </div>
         </div>
+        <Footer/>
       </div>
+     
     </>
   );
 };

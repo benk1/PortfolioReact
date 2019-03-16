@@ -1,5 +1,6 @@
 import React from "react";
 import NavBar from './NavBar';
+import Footer from './Footer';
 
 class Contact extends React.Component {
   state = {
@@ -148,6 +149,7 @@ class Contact extends React.Component {
             >
               Submit
             </button>
+            <Footer/>
           </div>
         </div>
       </div>

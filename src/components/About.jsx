@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from './Footer';
 //import { NavLink } from 'react-router-dom';
 
 import NavBar from "./NavBar";
@@ -79,6 +80,7 @@ const About = props => {
           beautiful out there.
         </p>
       </div>
+      <Footer/>
     </div>
   );
 };
