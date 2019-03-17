@@ -6,19 +6,19 @@ function NavBar() {
     <div>
       <header style={headerStyle}>
       
-        <Link style={linkStyle} to={process.env.PUBLIC_URL + "/"}>
+        <Link style={linkStyle} to="/">
           Home
         </Link>{" "}
         |{" "}
-        <Link style={linkStyle}to={process.env.PUBLIC_URL + "/about"}>
+        <Link style={linkStyle} to="/about">
           About
         </Link>{" "}
         |{" "}
-        <Link style={linkStyle} to={process.env.PUBLIC_URL + "/projects"}>
+        <Link style={linkStyle} to="/projects">
           Projects
         </Link>{" "}
         |{" "}
-        <Link style={linkStyle} to={process.env.PUBLIC_URL + "/contact"}>
+        <Link style={linkStyle} to="/contact">
           Contact
         </Link>{" "}
         {" "}
