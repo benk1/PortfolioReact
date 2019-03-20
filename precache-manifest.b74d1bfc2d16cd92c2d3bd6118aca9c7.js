@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/PortfolioReact/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "76772bd9a32365269ac7",
-    "url": "/PortfolioReact/static/css/main.5a9752ba.chunk.css"
+    "revision": "ffda38e7c6ca81e4c817",
+    "url": "/PortfolioReact/static/css/main.808f1c69.chunk.css"
   },
   {
     "revision": "1ac6a8f9f936383437a7",
@@ -16,24 +16,24 @@ self.__precacheManifest = [
     "url": "/PortfolioReact/static/media/profile_pic.415020d6.jpg"
   },
   {
-    "revision": "35b60d489c74483ffd1c",
-    "url": "/PortfolioReact/static/js/2.35b60d48.chunk.js"
+    "revision": "d38eabad4ae3d933495f",
+    "url": "/PortfolioReact/static/js/2.d38eabad.chunk.js"
   },
   {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/PortfolioReact/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "76772bd9a32365269ac7",
-    "url": "/PortfolioReact/static/js/main.76772bd9.chunk.js"
-  },
-  {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/PortfolioReact/static/media/fontawesome-webfont.b06871f2.ttf"
+    "revision": "ffda38e7c6ca81e4c817",
+    "url": "/PortfolioReact/static/js/main.ffda38e7.chunk.js"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/PortfolioReact/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/PortfolioReact/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
@@ -44,11 +44,11 @@ self.__precacheManifest = [
     "url": "/PortfolioReact/static/media/mount-kilimanjaro.12eb2baf.jpg"
   },
   {
-    "revision": "35b60d489c74483ffd1c",
+    "revision": "d38eabad4ae3d933495f",
     "url": "/PortfolioReact/static/css/2.4656b72a.chunk.css"
   },
   {
-    "revision": "eb900ccbf838cc0a23598e040fb8fb10",
+    "revision": "abeeef3bf8fb0635d2fbdab585ac5313",
     "url": "/PortfolioReact/index.html"
   }
 ];
