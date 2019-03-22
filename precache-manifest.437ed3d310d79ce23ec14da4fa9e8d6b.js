@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/PortfolioReact/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "de0771a4f1aa709fafb0",
-    "url": "/PortfolioReact/static/css/main.eb46634b.chunk.css"
+    "revision": "ed9a87cc263ab4e86f9c",
+    "url": "/PortfolioReact/static/css/main.6a792ceb.chunk.css"
   },
   {
     "revision": "1ac6a8f9f936383437a7",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/PortfolioReact/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "de0771a4f1aa709fafb0",
-    "url": "/PortfolioReact/static/js/main.de0771a4.chunk.js"
+    "revision": "ed9a87cc263ab4e86f9c",
+    "url": "/PortfolioReact/static/js/main.ed9a87cc.chunk.js"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/PortfolioReact/static/css/2.4656b72a.chunk.css"
   },
   {
-    "revision": "a287a62e419258485eb51ed7de261f0b",
+    "revision": "b76fefe1cd8dada8d2da385cbc62dcc2",
     "url": "/PortfolioReact/index.html"
   }
 ];
